@@ -1,0 +1,66 @@
+/**
+* Template Name: Arsha
+* Updated: Aug 07 2024 with Bootstrap v5.3.3
+* Author: BootstrapMade.com
+*/
+
+/*--------------------------------------------------------------
+# Font & Color Variables
+--------------------------------------------------------------*/
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Header styling */
+  header {
+    background-color: red; 
+    color: white;           
+    text-align: center;     
+    padding: 20px;          
+    margin-bottom: 20px;    
+  }
+  
+  /* Adjust header font size */
+  header h1 {
+    font-size: 2.5rem; /* Adjust size as needed */
+  }
+  
+  /* Container for content */
+  .container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  /* Table styling for grades */
+  table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+  }
+  
+  table th, table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  table th {
+    background-color: #f2f2f2;
+    color: #333;
+  }
+  
+  /* Footer styling */
+  footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
